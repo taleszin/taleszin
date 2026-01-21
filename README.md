@@ -1,54 +1,73 @@
 # Tales Santiago
 ### Lead Software Engineer | Computer Science Student @ UECE
 
-> "Código é apenas o meio. O fim é a inteligência de negócio, a redução de custos e a escalabilidade."
+**Engenheiro de Produto focado em sistemas complexos.**
+ Combino a base acadêmica da Ciência da Computação com a velocidade de entrega do mercado SaaS.
 
 ---
 
-### 🎯 Quem sou eu
-Sou um **Engenheiro de Produto** disfarçado de desenvolvedor. Minha atuação vai além do commit: foco em **ROI** (Retorno sobre Investimento), **FinOps** e **Business Intelligence**.
+## 🛠️ Engenharia de Produto & SaaS (Production Ready)
 
-Atualmente, lidero a engenharia na **MedLeap AI**, onde transformo dados brutos em decisões estratégicas, e modernizo acervos históricos massivos no **Portal da História do Ceará**.
+Projetos onde a arquitetura serve diretamente ao modelo de negócio e à retenção de usuários.
 
----
+### **[Leap Notes](https://leapnotes.app)** | *Medical Knowledge SaaS*
+Plataforma de gestão de conhecimento para a comunidade médica. O desafio técnico foi criar uma taxonomia flexível para dados não estruturados (anotações de casos clínicos).
+- **Arquitetura:** Sistema multiplataforma com sincronização em tempo real.
+- **Destaque:** Implementação de busca indexada e estruturação de pastas aninhadas para alta performance em grandes volumes de texto.
+- **Tech:** `React` `Node.js` `Cloud Storage`
 
-### 💼 Experiência & Impacto Real
-
-**🚀 MedLeap AI | CTO & Lead Engineer**
-*O desafio:* Um SaaS educacional precisa de mais do que conteúdo; precisa de retenção.
-* **A Solução:** Projetei o "Centro Operacional", um dashboard de BI integrado que monitora coortes de alunos e saúde financeira da startup em tempo real.
-* **Tech:** PHP, MySQL, Integração com LLMs (IA), Arquitetura SaaS.
-
-**🏛️ Portal da História do Ceará | Tech Lead**
-*O desafio:* Tornar pesquisáveis Terabytes de documentos físicos e digitalizados.
-* **A Solução:** Migração para arquitetura Serverless (Cloudflare R2) e implementação de pipelines de OCR com IA para indexação semântica.
-* **Tech:** Python, Big Data, Linux (VPS), Legacy Refactoring.
-
-**💰 Case: Reconhecimento Facial (FinOps)**
-*O desafio:* A empresa gastava R$ 9.000/ano em licenças de software de ponto.
-* **A Solução:** Em 2 dias, desenvolvi uma solução própria via AWS Rekognition.
-* **Resultado:** Substituição do Custo Fixo alto por Custo Variável (Serverless), gerando economia imediata.
+### **[MedLeap AI](https://medleapbr.com)** | *EdTech Data Intelligence*
+Como Lead Engineer, transformei o banco de dados da plataforma em um **Centro Operacional (BI)**.
+- **Impacto:** Criação de dashboards de coortes (retention metrics) e KPIs financeiros que guiam as decisões dos sócios.
+- **Tech:** `PHP` `MySQL` `Analytics Pipelines` `LLM Integration`
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+## 🧬 Ciência da Computação & Simulação (Deep Tech)
 
-Não me prendo a ferramentas, mas estas são as que uso para construir soluções robustas:
+Onde aplico matemática avançada, IA e algoritmos complexos.
 
-* **Core:** `PHP` `Node.js` `Python` `C`
-* **Front & UI:** `React` `JavaScript (ES6+)` `Figma` `Three.js`
-* **Infra & Dados:** `AWS` `MySQL` `Linux` `Big Data`
+### **[Hylomorph](https://github.com/taleszin/game)** | *Artificial Life Simulation Engine*
+Um sandbox de vida artificial baseado em Hylomorfismo Aristotélico e Genética Mendeliana. **Não é apenas um jogo, é uma engine de simulação.**
+- **Algoritmos:** Implementação manual de *Steering Behaviors* (Reynolds), Algoritmo *Shoelace* para cálculo de área de polígonos e aproximação de *Ramanujan* para perímetros elípticos.
+- **Arquitetura:** Event-Driven Architecture (Observer Pattern) e Entity-Component System para gerenciar centenas de entidades autônomas.
+- **Genética:** Sistema de herança com mutação e dominância variável.
+- **Tech:** `JavaScript (ES Modules)` `Phaser 3` `Math-heavy logic`
+
+### **ShotMap Basketball** | *Data Visualization*
+Ferramenta analítica que mapeia padrões espaciais de arremessos.
+- **Tech:** Transformação de coordenadas e visualização de dados espaciais.
 
 ---
+
+## ☁️ Infraestrutura & Big Data
+
+Modernização de legados e eficiência operacional.
+
+### **Portal da História do Ceará** | *Digital Archiving*
+Lidero a transformação digital de um dos maiores acervos do estado.
+- **Desafio:** Processar e tornar pesquisáveis Terabytes de documentos físicos.
+- **Solução:** Pipeline de **OCR com IA** e migração para armazenamento Serverless (**Cloudflare R2**), reduzindo drasticamente custos de storage tradicional.
+- **Tech:** `Javascript` `Serverless` `Linux VPS`
+
+## 💻 Tech Stack
+
+| Domínio | Tecnologias |
+| :--- | :--- |
+| **Core & Backend** | `PHP` `Node.js` `Python` `C` (Memory Management) |
+| **Frontend & UI** | `React` `JavaScript ES6+` `Figma` `Three.js` |
+| **Data & AI** | `MySQL` `PostgreSQL` `LLM Integration` `Genetic Algos` |
+| **Infra & Cloud** | `AWS` `Linux` `Docker` `Serverless` |
 
 <div align="left">
+  <br>
   <a href="https://www.linkedin.com/in/talessantiago" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://taleszin.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Ver_Projetos-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:santiagold116@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://taleszin.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Ver_Projetos-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
 </div>
